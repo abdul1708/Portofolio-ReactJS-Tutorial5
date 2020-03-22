@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --content-base './dist' --hot true --port 3000"
+    "start": "react-scripts start"
   },
   "author": "",
   "license": "ISC",
